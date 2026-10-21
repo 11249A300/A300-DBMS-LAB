@@ -1,9 +1,9 @@
 # DATABASE MANAGEMENT LAB-(DBMS)-LAB
 
-**REGISTER NUMBER : 11249A300
+**REGISTER NUMBER : 11249A300**
 
-NAME            : PUJARI HEMESH
+**NAME            : PUJARI HEMESH**
 
-PROGRAM         : B.E-(CSE)
+**PROGRAM         : B.E-(CSE)**
 
-SECTION         : S7**
+**SECTION         : S7**
